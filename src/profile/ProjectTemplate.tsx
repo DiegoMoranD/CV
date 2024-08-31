@@ -1,5 +1,18 @@
+type ProjectTemplateProps = {
+    image: string;
+    description: string;
+    name: string;
+    link: string;
+    gitLink: string;
+};
 
-export const ProjectTemplate = ({ image, description, name, link, gitLink }) => {
+export const ProjectTemplate: React.FC<ProjectTemplateProps> = ({
+    image,
+    description,
+    name,
+    link,
+    gitLink,
+}) => {
     return (
         <div>
             <img
