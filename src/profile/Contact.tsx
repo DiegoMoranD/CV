@@ -1,7 +1,7 @@
 
 function Contact() {
   return (
-    <section className="bg-[#3d3d43] py-12 sm:py-16 lg:py-20">
+    <section className="bg-[#3d3d43] py-12 sm:py-16 lg:py-20" id="cont">
       <div className="container max-w-6xl mx-auto px-4 sm:px-6">
         <div className="space-y-8">
           <div className="space-y-4">

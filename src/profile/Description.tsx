@@ -1,4 +1,4 @@
-import Photo from '../imgs/photo.jpg'
+import Photo from '../imgs/perfil.jpg'
 
 function Description() {
     return (

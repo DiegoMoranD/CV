@@ -8,7 +8,7 @@ function Navbar() {
                 </svg>
                 </p>
                 <nav className='hidden sm:flex items-center gap-4'>
-                    <a href="" className='text-sm font-medium hover:underline underline-offset-4'>Acerca de mi</a>
+                    <a href="cont" className='text-sm font-medium hover:underline underline-offset-4'>Acerca de mi</a>
                     <a href="" className='text-sm font-medium hover:underline underline-offset-4'>Proyectos</a>
                     <a href="" className='text-sm font-medium hover:underline underline-offset-4'>Habilidades</a>
                     <a href="" className='text-sm font-medium hover:underline underline-offset-4'>Contacto</a>
